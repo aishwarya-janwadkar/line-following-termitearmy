@@ -1,7 +1,9 @@
 Behaviour in Motion
+
 The brief for this project was to design an interactive piece that uses one or more servo motors with CircuitPython to create something that feels alive and behaves through movement.
 
 Army of termites
+
 This idea evolved from the concept of understanding behaviour and motion in social insects such as termites. The army of termites includes a queen, a soldier and a worker termite. they project two behaviours -
 
 1. Communication in the Termite Colony
