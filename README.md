@@ -15,4 +15,11 @@ To illustrate this behaviour, the soldier and the worker, follow the queen throu
 2. Termite Soldiers Sound the Alarm
 
 Termite soldiers form the world's tiniest heavy metal mosh pit when danger comes to the nest. To sound the alarm, soldiers bang their heads against the gallery walls to send warning vibrations throughout the colony.
-The soldier termite has a solonoid embedded in its head that turns on when their is a loud sound.
+The soldier termite has a solonoid embedded in its head that turns on when there is a loud sound.
+
+List of components -
+1. Adafruit Circuit Playground Express 
+2. Adafruit CRICKIT
+3. Two line following sensors
+4. Two continuous servo motors
+5. Solonoid
